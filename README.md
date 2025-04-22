@@ -5,14 +5,14 @@ This is a Next.js application for tracking trip expenses. You can add people, re
 ## Setup
 
 1. Install dependencies:
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 2. Run development server:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 Open http://localhost:3000 in your browser.
 
